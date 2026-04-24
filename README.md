@@ -27,4 +27,11 @@
 * **DAX** (Custom Measures & KPIs)
 
 ---
-📧 **Contact:** [Your Email or LinkedIn Profile Link]
+
+## 📬 Contact Me
+
+تواصل معي لمناقشة مشاريع تحليل البيانات أو فرص التعاون:
+
+* **LinkedIn:** [Mustafa Zalam](https://www.linkedin.com/in/mustafa-zalam-7bb1ba252)
+* **Email:** [mostafazalam71@gmail.com](mailto:mostafazalam71@gmail.com)
+* **GitHub:** [Mustafa2397](https://github.com/Mustafa2397)
